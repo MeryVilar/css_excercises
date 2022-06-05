@@ -4,5 +4,10 @@
 #the-second-one {
 	font-size: 25px;
 }
-
+div#my-first-div h2 {
+	font-size: 0.8em !important;
+}
+div#the-second-one h2 {
+	font-size: 0.8em !important;
+}
 /* YOUR CODE BELOW THIS LINE */
